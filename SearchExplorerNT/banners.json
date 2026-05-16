@@ -1,0 +1,25 @@
+{
+  "speed": 3000,
+  "banners": [
+    {
+      "image": "https://quickguidehub.com/wp-content/uploads/2025/11/quickguidehub_400.webp",
+      "url": "https://www.quickguidehub.com/"
+    },
+    {
+      "image": "https://quickguidehub.com/wp-content/uploads/2025/11/mobilprogramlar_400.webp",
+      "url": "https://www.mobilprogramlar.com/"
+    },
+    {
+      "image": "https://quickguidehub.com/wp-content/uploads/2025/11/ossmatematik_400.webp",
+      "url": "https://www.ossmatematik.com.tr/"
+    },
+	{
+      "image": "https://quickguidehub.com/wp-content/uploads/2025/11/webp.quickguidehub_400.webp",
+      "url": "https://webp.quickguidehub.com/index.php/ana-sayfa/"
+    },
+	{
+      "image": "https://quickguidehub.com/wp-content/uploads/2025/11/products.quickguidehub_400.webp",
+      "url": "https://products.quickguidehub.com/"
+    }
+  ]
+}
